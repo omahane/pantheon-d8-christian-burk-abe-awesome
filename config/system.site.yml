@@ -1,0 +1,14 @@
+uuid: 0e19f597-3126-4f31-b0a2-f883a1ab551c
+name: pantheon-d8-christian-burk-abe-awesome
+mail: ChristianBurk@creighton.edu
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
